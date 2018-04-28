@@ -1,5 +1,6 @@
+<p style="text-align: center;">
 # Housing predictions for the Iowa data.
-
+</p>
 ## Contents
     1.  Decision Tree
     2.  Random Forest prediction with select features
