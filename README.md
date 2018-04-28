@@ -1,4 +1,4 @@
-        # Housing predictions for the Iowa data.
+# Housing predictions for the Iowa data.
 
 ## Contents
     1.  Decision Tree
