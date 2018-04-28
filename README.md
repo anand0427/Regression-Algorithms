@@ -1,6 +1,6 @@
-<p style="text-align: center;">
-# Housing predictions for the Iowa data.
-</p>
+
+<p align= "center"> <b><h1>Regression algorithms for predicting housing prices on Iowa data.</h1></b> </p>
+       
 ## Contents
     1.  Decision Tree
     2.  Random Forest prediction with select features
